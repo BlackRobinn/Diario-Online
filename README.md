@@ -27,7 +27,7 @@ python manage.py runserver
 ## Criar ADM User
 
 ```
-$ python manage.py createsuperuser
+python manage.py createsuperuser
 ```
 
 - Acesso Admin - http://127.0.0.1:8000/admin
